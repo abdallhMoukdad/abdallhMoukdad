@@ -18,6 +18,12 @@ I build systems end to end: infrastructure automation, CI/CD, Linux-based operat
 - [solopanel](https://github.com/abdallhMoukdad/solopanel)  
   Lightweight single-server control panel for solo developers, with a Go backend, React frontend, deployment workflows, backups, SSL, and ops-focused features.
 
+## Selected Private Work
+
+- Built and maintained an internal employee portal integrated with ERP systems, including attendance, chat, tasks, and manager workflows.
+- Delivered production features such as GPS and QR-based check-in, reporting, and export capabilities.
+- Worked across Go, Flutter, React, backend integrations, and deployment/infrastructure workflows in production environments.
+
 ## Core Stack
 
 - Platform and DevOps: Terraform, AWS, Docker, Kubernetes, Linux, GitHub Actions
