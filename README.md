@@ -18,12 +18,6 @@ I build systems end to end: infrastructure automation, CI/CD, Linux-based operat
 - [solopanel](https://github.com/abdallhMoukdad/solopanel)  
   Lightweight single-server control panel for solo developers, with a Go backend, React frontend, deployment workflows, backups, SSL, and ops-focused features.
 
-- [flutter-assignment](https://github.com/abdallhMoukdad/flutter-assignment)  
-  Flutter project built with modular structure, permission handling, and clean screen organization.
-
-- [2nd-Task-python](https://github.com/abdallhMoukdad/2nd-Task-python)  
-  Flask authentication system with web and API flows, JWT auth, and production deployment notes.
-
 ## Core Stack
 
 - Platform and DevOps: Terraform, AWS, Docker, Kubernetes, Linux, GitHub Actions
