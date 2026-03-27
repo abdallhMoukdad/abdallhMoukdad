@@ -6,11 +6,14 @@ I build systems end to end: infrastructure automation, CI/CD, Linux-based operat
 
 ## Current Focus
 
-- Terraform, AWS, Docker, Kubernetes, GitHub Actions, and observability
+- Terraform, AWS, Docker, Kubernetes, GitHub Actions, Backstage, and observability
 - production-minded infrastructure and deployment workflows
 - building public portfolio projects that show real operational discipline
 
 ## Featured Projects
+
+- [internal-developer-platform-demo](https://github.com/abdallhMoukdad/internal-developer-platform-demo)  
+  Backstage-based internal developer platform demo with a software catalog, golden path scaffolder, production-minded verification, and a sample generated service.
 
 - [terraform-aws-network-foundation](https://github.com/abdallhMoukdad/terraform-aws-network-foundation)  
   Production-minded AWS network foundation with Terraform, remote state bootstrap, CI linting, and security checks.
@@ -45,6 +48,7 @@ I build systems end to end: infrastructure automation, CI/CD, Linux-based operat
 
 ## Public Portfolio Direction
 
+- internal developer platforms, golden paths, and software catalogs
 - Terraform and AWS foundation work
 - Kubernetes and GitOps delivery workflows
 - observability, alerting, SLOs, and operational incident response
